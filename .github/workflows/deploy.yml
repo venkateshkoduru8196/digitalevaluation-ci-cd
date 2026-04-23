@@ -22,7 +22,8 @@ jobs:
       run: dotnet restore
 
     - name: Publish
-      run: dotnet publish ./DIGITALEVALUATION/DIGITALEVALUATION.csproj -c Release -r win-x86 --self-contained true -o ./publish
+      run: dotnet publish ./DIGITALEVALUATION/DIGITALEVALUATION.csproj -c Release -o ./publish
+
 
     - name: Deploy via FTPS
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
