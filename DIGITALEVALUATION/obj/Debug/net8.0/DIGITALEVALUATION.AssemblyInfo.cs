@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DIGITALEVALUATION")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+018f15b0f12211cb40db50d4f5fdb0cd0d4026bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("DIGITALEVALUATION")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DIGITALEVALUATION")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
