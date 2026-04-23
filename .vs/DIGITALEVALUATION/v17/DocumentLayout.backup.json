@@ -1,0 +1,826 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\deloyment\\DIGITALEVALUATIONAPT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\digitalevaluation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\digitalevaluation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\controllers\\coursesubjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\controllers\\coursesubjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\controllers\\evaluationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\controllers\\evaluationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\controllers\\examscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\controllers\\examscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\services\\ifacultysubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\services\\ifacultysubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\services\\facultysubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\services\\facultysubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\entities\\facultysubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\entities\\facultysubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\dtos\\facultysubjectupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\dtos\\facultysubjectupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\dtos\\facultysubjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\dtos\\facultysubjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\dtos\\facultysubjectcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\dtos\\facultysubjectcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\controllers\\facultysubjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\controllers\\facultysubjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/148.113.47.114_49884/ccplus/cc_user/SqlTable/cc_user.FacultySubjects.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\haris\\AppData\\Local\\Temp\\n1db4brm..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\entities\\answersheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\entities\\answersheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\services\\ianswersheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\services\\ianswersheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\services\\answersheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\services\\answersheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\dtos\\answersheetupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\dtos\\answersheetupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\dtos\\answersheetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\dtos\\answersheetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\dtos\\answersheetcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\dtos\\answersheetcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\controllers\\answersheetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\controllers\\answersheetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\entities\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\entities\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\haris\\AppData\\Local\\Temp\\3s1n3eql..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Genbaseuser5\\AppData\\Local\\Temp\\8\\sjyox1ji..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\haris\\AppData\\Local\\Temp\\s2icn524..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/148.113.47.114_49884/ccplus/cc_user/SqlTable/cc_user.Branches.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Genbaseuser5\\AppData\\Local\\Temp\\8\\skwactht..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\controllers\\branchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\controllers\\branchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Genbaseuser5\\AppData\\Local\\Temp\\8\\gmxkmihc..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\dtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\dtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/148.113.47.114_49884/ccplus/cc_user/SqlTable/cc_user.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\entities\\menumaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\entities\\menumaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\dtos\\menudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\dtos\\menudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\controllers\\securedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\controllers\\securedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/148.113.47.114_49884/ccplus/cc_user/SqlTable/cc_user.MenuMasters.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/148.113.47.114_49884/ccplus/cc_user/SqlTable/cc_user.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\digitalevaluation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\digitalevaluation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|e:\\deloyment\\digitalevaluationapt\\digitalevaluation\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{659BC8AC-0882-4108-8F1D-35CFE61E7FE8}|DIGITALEVALUATION\\DIGITALEVALUATION.csproj|solutionrelative:digitalevaluation\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExamsController.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Controllers\\ExamsController.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Controllers\\ExamsController.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Controllers\\ExamsController.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Controllers\\ExamsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T06:52:34.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFacultySubjectService.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Services\\IFacultySubjectService.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Services\\IFacultySubjectService.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Services\\IFacultySubjectService.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Services\\IFacultySubjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T12:19:04.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FacultySubjectService.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Services\\FacultySubjectService.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Services\\FacultySubjectService.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Services\\FacultySubjectService.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Services\\FacultySubjectService.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T12:18:37.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Controllers\\MenuController.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:06:54.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DIGITALEVALUATION.http",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DIGITALEVALUATION.http",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\DIGITALEVALUATION.http",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DIGITALEVALUATION.http",
+              "RelativeToolTip": "DIGITALEVALUATION\\DIGITALEVALUATION.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-13T11:33:55.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\appsettings.json",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\appsettings.json",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\appsettings.json",
+              "RelativeToolTip": "DIGITALEVALUATION\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-13T11:32:58.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EvaluationsController.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Controllers\\EvaluationsController.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Controllers\\EvaluationsController.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Controllers\\EvaluationsController.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Controllers\\EvaluationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T06:52:37.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseSubjectsController.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Controllers\\CourseSubjectsController.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Controllers\\CourseSubjectsController.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Controllers\\CourseSubjectsController.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Controllers\\CourseSubjectsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T06:52:39.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FacultySubjectUpdateDto.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DTOs\\FacultySubjectUpdateDto.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\DTOs\\FacultySubjectUpdateDto.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DTOs\\FacultySubjectUpdateDto.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\DTOs\\FacultySubjectUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T12:16:52.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FacultySubjectDto.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DTOs\\FacultySubjectDto.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\DTOs\\FacultySubjectDto.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DTOs\\FacultySubjectDto.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\DTOs\\FacultySubjectDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T12:16:34.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FacultySubjectCreateDto.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DTOs\\FacultySubjectCreateDto.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\DTOs\\FacultySubjectCreateDto.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DTOs\\FacultySubjectCreateDto.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\DTOs\\FacultySubjectCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T12:16:10.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FacultySubjectsController.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Controllers\\FacultySubjectsController.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Controllers\\FacultySubjectsController.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Controllers\\FacultySubjectsController.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Controllers\\FacultySubjectsController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T12:15:30.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "cc_user.FacultySubjects.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/148.113.47.114_49884/ccplus/cc_user/SqlTable/cc_user.FacultySubjects.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/148.113.47.114_49884/ccplus/cc_user/SqlTable/cc_user.FacultySubjects.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-19T12:07:33.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FacultySubject.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Entities\\FacultySubject.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Entities\\FacultySubject.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Entities\\FacultySubject.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Entities\\FacultySubject.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T11:24:31.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "n1db4brm..sql",
+              "DocumentMoniker": "C:\\Users\\haris\\AppData\\Local\\Temp\\n1db4brm..sql",
+              "ToolTip": "C:\\Users\\haris\\AppData\\Local\\Temp\\n1db4brm..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-18T06:48:31.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAnswerSheetService.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Services\\IAnswerSheetService.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Services\\IAnswerSheetService.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Services\\IAnswerSheetService.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Services\\IAnswerSheetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:22:47.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AnswerSheetService.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Services\\AnswerSheetService.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Services\\AnswerSheetService.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Services\\AnswerSheetService.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Services\\AnswerSheetService.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:22:15.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AnswerSheetUpdateDto.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DTOs\\AnswerSheetUpdateDto.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\DTOs\\AnswerSheetUpdateDto.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DTOs\\AnswerSheetUpdateDto.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\DTOs\\AnswerSheetUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:20:00.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AnswerSheet.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Entities\\AnswerSheet.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Entities\\AnswerSheet.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Entities\\AnswerSheet.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Entities\\AnswerSheet.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:02:53.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AnswerSheetCreateDto.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DTOs\\AnswerSheetCreateDto.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\DTOs\\AnswerSheetCreateDto.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DTOs\\AnswerSheetCreateDto.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\DTOs\\AnswerSheetCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:19:23.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AnswerSheetsController.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Controllers\\AnswerSheetsController.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Controllers\\AnswerSheetsController.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Controllers\\AnswerSheetsController.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Controllers\\AnswerSheetsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:18:34.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AnswerSheetDto.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DTOs\\AnswerSheetDto.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\DTOs\\AnswerSheetDto.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DTOs\\AnswerSheetDto.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\DTOs\\AnswerSheetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T06:18:15.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Evaluation.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Entities\\Evaluation.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Entities\\Evaluation.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Entities\\Evaluation.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Entities\\Evaluation.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T05:03:03.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "s2icn524..sql",
+              "DocumentMoniker": "C:\\Users\\haris\\AppData\\Local\\Temp\\s2icn524..sql",
+              "ToolTip": "C:\\Users\\haris\\AppData\\Local\\Temp\\s2icn524..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-16T06:06:46.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T10:59:04.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "skwactht..sql",
+              "DocumentMoniker": "C:\\Users\\Genbaseuser5\\AppData\\Local\\Temp\\8\\skwactht..sql",
+              "ToolTip": "C:\\Users\\Genbaseuser5\\AppData\\Local\\Temp\\8\\skwactht..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-14T10:30:08.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "sjyox1ji..sql",
+              "DocumentMoniker": "C:\\Users\\Genbaseuser5\\AppData\\Local\\Temp\\8\\sjyox1ji..sql",
+              "ToolTip": "C:\\Users\\Genbaseuser5\\AppData\\Local\\Temp\\8\\sjyox1ji..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-14T10:30:05.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "StudentUpdateDto.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DTOs\\StudentUpdateDto.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\DTOs\\StudentUpdateDto.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DTOs\\StudentUpdateDto.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\DTOs\\StudentUpdateDto.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T18:20:06.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DTOs\\StudentDto.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\DTOs\\StudentDto.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DTOs\\StudentDto.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\DTOs\\StudentDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T18:16:12.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Program.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Program.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Program.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Program.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAnwKIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:33:07.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Entities\\Student.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Entities\\Student.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Entities\\Student.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAcwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:28:56.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "3s1n3eql..sql",
+              "DocumentMoniker": "C:\\Users\\haris\\AppData\\Local\\Temp\\3s1n3eql..sql",
+              "ToolTip": "C:\\Users\\haris\\AppData\\Local\\Temp\\3s1n3eql..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-17T05:33:44.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Services\\MenuService.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Services\\MenuService.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Services\\MenuService.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Services\\MenuService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwDoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:17:55.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BranchesController.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Controllers\\BranchesController.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Controllers\\BranchesController.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Controllers\\BranchesController.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Controllers\\BranchesController.cs",
+              "ViewState": "AgIAADsAAAAAUGZmZmbqvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T10:59:10.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "cc_user.Branches.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/148.113.47.114_49884/ccplus/cc_user/SqlTable/cc_user.Branches.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/148.113.47.114_49884/ccplus/cc_user/SqlTable/cc_user.Branches.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-15T06:02:40.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StudentCreateDto.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DTOs\\StudentCreateDto.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\DTOs\\StudentCreateDto.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DTOs\\StudentCreateDto.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\DTOs\\StudentCreateDto.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA4wDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T18:15:25.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Services\\StudentService.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Services\\StudentService.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Services\\StudentService.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAQwJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T17:30:54.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Controllers\\StudentsController.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T17:29:37.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MenuMaster.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Entities\\MenuMaster.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Entities\\MenuMaster.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Entities\\MenuMaster.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Entities\\MenuMaster.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:22:09.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MenuDto.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DTOs\\MenuDto.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\DTOs\\MenuDto.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DTOs\\MenuDto.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\DTOs\\MenuDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:19:39.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SecuredController.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Controllers\\SecuredController.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Controllers\\SecuredController.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Controllers\\SecuredController.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Controllers\\SecuredController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:17:00.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "cc_user.Students.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/148.113.47.114_49884/ccplus/cc_user/SqlTable/cc_user.Students.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/148.113.47.114_49884/ccplus/cc_user/SqlTable/cc_user.Students.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-13T17:46:07.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "gmxkmihc..sql",
+              "DocumentMoniker": "C:\\Users\\Genbaseuser5\\AppData\\Local\\Temp\\8\\gmxkmihc..sql",
+              "ToolTip": "C:\\Users\\Genbaseuser5\\AppData\\Local\\Temp\\8\\gmxkmihc..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-13T13:52:31.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "cc_user.MenuMasters.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/148.113.47.114_49884/ccplus/cc_user/SqlTable/cc_user.MenuMasters.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/148.113.47.114_49884/ccplus/cc_user/SqlTable/cc_user.MenuMasters.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-13T13:48:07.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Models\\RegisterModel.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:27:47.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Models\\ApplicationUser.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:27:45.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Models\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Models\\ApplicationRole.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Models\\ApplicationRole.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Models\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:29:04.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Entities\\Branch.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Entities\\Branch.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Entities\\Branch.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Entities\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:27:38.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "cc_user.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/148.113.47.114_49884/ccplus/cc_user/SqlTable/cc_user.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/148.113.47.114_49884/ccplus/cc_user/SqlTable/cc_user.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-13T12:00:44.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DIGITALEVALUATION\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-13T11:35:39.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DIGITALEVALUATION",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DIGITALEVALUATION.csproj",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\DIGITALEVALUATION.csproj",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\DIGITALEVALUATION.csproj",
+              "RelativeToolTip": "DIGITALEVALUATION\\DIGITALEVALUATION.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T11:34:21.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\WeatherForecast.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\WeatherForecast.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:33:14.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "DIGITALEVALUATION\\Entities\\Course.cs",
+              "ToolTip": "E:\\deloyment\\DIGITALEVALUATIONAPT\\DIGITALEVALUATION\\Entities\\Course.cs",
+              "RelativeToolTip": "DIGITALEVALUATION\\Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:31:43.862Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
